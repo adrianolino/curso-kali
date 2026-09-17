@@ -1,0 +1,20 @@
+
+RESULTADOS DOS TESTES
+
+Teste IP: 1.1.1.1
+Pacotes: 5 enviados / 5 recebidos
+Perda: 0%
+Latência média: 15.327 ms
+Status: Conectividade confirmada
+
+Teste DNS: tethys.kali.org
+IP resolvido: 54.39.128.230
+Pacotes: 5 enviados / 5 recebidos
+Perda: 0%
+Latência média: 142.308 ms
+Status: Resolução DNS confirmadaLaboratório 01 - Diagnóstico de Rede
+
+Sistema: Kali Linux NetHunter
+Ambiente: Termux
+Interface: wlan0
+Objetivo: Verificar conectividade e DNS
