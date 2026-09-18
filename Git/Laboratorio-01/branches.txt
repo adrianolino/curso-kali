@@ -1,0 +1,10 @@
+LABORATÓRIO 01 - BRANCHES
+
+Branch atual: desenvolvimento
+
+Objetivo:
+Aprender a trabalhar com branches no Git.
+
+Conceito:
+A branch desenvolvimento permite criar e testar alterações
+sem modificar diretamente a branch master.
