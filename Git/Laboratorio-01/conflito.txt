@@ -1,1 +1,9 @@
+LABORATÓRIO 02 - CONFLITO RESOLVIDO
+
+Mensagem da branch master:
 Mensagem criada na branch master.
+
+Mensagem da branch laboratorio-conflito:
+Mensagem criada na branch laboratorio-conflito.
+
+O conflito foi resolvido manualmente.
