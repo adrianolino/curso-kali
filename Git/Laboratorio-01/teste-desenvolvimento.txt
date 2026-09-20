@@ -1,0 +1,5 @@
+LABORATÓRIO 01 - TESTE DE DESENVOLVIMENTO
+
+Branch: desenvolvimento
+
+Esta alteração foi criada para testar o funcionamento das branches no Git.
